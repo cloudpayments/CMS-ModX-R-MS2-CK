@@ -1,7 +1,7 @@
 --------------------
-ModX-Revo-MS2-CK
+CMS-ModX-R-MS2-CK/msCloudKassir
 --------------------
 
-CloudKassir модуль для ModX Revolution Minishop2
+CloudKassir module for ModX Revolution Minishop2
 
-© CloudPayments
+© CloudKassir
