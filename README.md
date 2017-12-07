@@ -25,8 +25,8 @@
 
 ### Ручная Установка Модуля
 
-Загрузить в любую подпапку modx (например mspCloudPayments)
-Скопировать build.config.example.php в build.config.php
-Поправить путь MODX_BASE_PATH в build.config.php (должен быть на корень установки modx)
-Запустить http://domain.ru/mspCloudPayments/_build/build.transport.php
-Пакет должен появится в списке пакетов в разделе "Управление пакетами"
+1. Загрузить в любую подпапку modx (например mspCloudPayments)
+2. Скопировать build.config.example.php в build.config.php
+3. Поправить путь MODX_BASE_PATH в build.config.php (должен быть на корень установки modx)
+4. Запустить http://domain.ru/mspCloudPayments/_build/build.transport.php
+5. Пакет должен появится в списке пакетов в разделе "Управление пакетами"
