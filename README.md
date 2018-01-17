@@ -1,4 +1,4 @@
-#CloudKassir модуль для ModX Revolution - MiniShop2
+# CloudKassir модуль для ModX Revolution - MiniShop2
 Данный модуль позволяет интегрировать онлайн-кассу в MiniShop2  для соответсвия вашего интернет магазина с  ФЗ-54. Совместим с любыми платежными системами.
 Порядок регистрации онлайн-кассы описан в документации CloudPayments https://cloudpayments.ru/Docs/Kassa
 
