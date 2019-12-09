@@ -16,9 +16,9 @@ $_lang['setting_ms_cloudkassir_secret_key_desc']           = 'Обязатель
 $_lang['setting_ms_cloudkassir_inn']                       = 'ИНН';
 $_lang['setting_ms_cloudkassir_inn_desc']                  = 'ИНН вашей организации или ИП, на который зарегистрирована касса. Используется при формировании онлайн-чека.';
 $_lang['setting_ms_cloudkassir_vat']                       = 'Ставка НДС';
-$_lang['setting_ms_cloudkassir_vat_desc']                  = 'Возможные значения: 18,10,0,110,118 или пустое значение. Более детальная информация в документации CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
+$_lang['setting_ms_cloudkassir_vat_desc']                  = 'Возможные значения: 20,10,0,110,120 или пустое значение. Более детальная информация в документации CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
 $_lang['setting_ms_cloudkassir_vat_delivery']              = 'Ставка НДС для доставки';
-$_lang['setting_ms_cloudkassir_vat_delivery_desc']         = 'Возможные значения: 18,10,0,110,118 или пустое значение. Более детальная информация в документации CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
+$_lang['setting_ms_cloudkassir_vat_delivery_desc']         = 'Возможные значения: 20,10,0,110,120 или пустое значение. Более детальная информация в документации CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
 $_lang['setting_ms_cloudkassir_taxation_system']           = 'Система налогооблажения';
 $_lang['setting_ms_cloudkassir_taxation_system_desc']      = 'Возможные значения: 0-5. Более детальная информация в документации CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Directory#taxation-system">https://cloudpayments.ru/Docs/Directory#taxation-system</a>';
 $_lang['setting_ms_cloudkassir_status_for_pay_id']         = 'Статус заказа для оплаты (приход)';

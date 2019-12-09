@@ -16,9 +16,9 @@ $_lang['setting_ms_cloudkassir_secret_key_desc']            = 'Required secret k
 $_lang['setting_ms_cloudkassir_inn']                        = 'Inn';
 $_lang['setting_ms_cloudkassir_inn_desc']                   = 'Inn your organisation for generate online check.';
 $_lang['setting_ms_cloudkassir_vat']                        = 'Vat';
-$_lang['setting_ms_cloudkassir_vat_desc']                   = 'Available values: 18,10,0,110,118 or empty. More details in documentation CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
+$_lang['setting_ms_cloudkassir_vat_desc']                   = 'Available values: 20,10,0,110,120 or empty. More details in documentation CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
 $_lang['setting_ms_cloudkassir_vat_delivery']               = 'Vat for delivery';
-$_lang['setting_ms_cloudkassir_vat_delivery_desc']          = 'Available values: 18,10,0,110,118 or empty. More details in documentation CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
+$_lang['setting_ms_cloudkassir_vat_delivery_desc']          = 'Available values: 20,10,0,110,120 or empty. More details in documentation CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Kassa#data-format">https://cloudpayments.ru/Docs/Kassa#data-format</a>';
 $_lang['setting_ms_cloudkassir_taxation_system']            = 'Taxation system';
 $_lang['setting_ms_cloudkassir_taxation_system_desc']       = 'Available values: 0-5. More details in documentation CloudPayments <a target="_blank" href="https://cloudpayments.ru/Docs/Directory#taxation-system">https://cloudpayments.ru/Docs/Directory#taxation-system</a>';
 $_lang['setting_ms_cloudkassir_status_for_pay_id']          = 'Pay order status';

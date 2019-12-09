@@ -110,10 +110,11 @@ class msCloudKassir
         $profile     = $order->getOne('UserProfile');
         $address     = $order->getOne('Address');
         $receiptData = array(
-            'Items'          => array(),
-            'taxationSystem' => $this->config['taxation_system'],
-            'email'          => $profile->get('email'),
-            'phone'          => $address->get('phone'),
+            'Items'           => array(),
+            'taxationSystem'  => $this->config['taxation_system'],
+            'calculationPlace'=>'www.'.$_SERVER['SERVER_NAME'],
+            'email'           => $profile->get('email'),
+            'phone'           => $address->get('phone'),
         );
         $products    = $this->pdoTools->getCollection('msOrderProduct',
             json_encode(array('order_id' => $order->get('id'))), array(
